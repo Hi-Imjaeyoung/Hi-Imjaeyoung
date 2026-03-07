@@ -1,4 +1,4 @@
-# Hi I'm Jae Young 👋
+# Hi I'm Jae Young
 
 ### "데이터 기반의 성능 최적화와 Trade-off 분석을 즐기는 백엔드 개발자입니다."
 
