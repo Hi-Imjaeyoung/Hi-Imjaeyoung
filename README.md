@@ -24,5 +24,5 @@
   * 비동기 작업 스레드 풀 격리 및 DB 커넥션 1:1 매핑을 통한 초기 로딩 병목 해소
 
 ## 📫 Contact
-- **Email:** [네 이메일 주소 넣기](mailto:imjy2757@naver.com)
+- **Email:** [imjy2757@naver.com](mailto:imjy2757@naver.com)
 - **Portfolio:** [👉 상세 트러블슈팅 포트폴리오 보기](노션이나 구글드라이브 PDF 링크 넣기)
