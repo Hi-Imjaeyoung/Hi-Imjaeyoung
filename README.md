@@ -26,4 +26,3 @@
 
 ## 📫 Contact
 - **Email:** [imjy2757@naver.com](mailto:imjy2757@naver.com)
-- **Portfolio:** [👉 상세 트러블슈팅 포트폴리오 보기](노션이나 구글드라이브 PDF 링크 넣기)
