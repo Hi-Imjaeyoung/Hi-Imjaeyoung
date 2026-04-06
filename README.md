@@ -22,6 +22,9 @@
   * 단일 서버의 한계(SPOF) 극복 및 MSA 확장 설계
   * 글로벌 L2 캐시(Redis) 도입을 통한 DB 부하 최소화
   * Kafka 기반의 분산 캐시 데이터 정합성 보장 (EDA 적용)
+  * Redis SPOF에 대한 서킷브레이커를 통한 자가 회복 구조 구현
+  * Redis Pub/Sub을 통한 이중 지연 무효화 구현
+  * Redis 원자성을 활용한 멱등성 방어막 구축
 
 * **[OrTopia](https://github.com/Hi-Imjaeyoung/3Team_Ortopia)**
   * 다중 서버 환경에서 발생하는 SSE 세션 불일치 문제를 해결하기 위해, Redis Pub/Sub 기반의 메시지 브로커를 도입하여 서버 간 실시간 이벤트 동기화 및 라우팅 아키텍처를 구현. 
